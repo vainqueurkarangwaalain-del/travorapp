@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Mon Petit Écrivain",
+  "short_name": "Petit Écrivain",
+  "description": "Application éducative pour apprendre à écrire, lire et pratiquer le français et l'anglais.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f8ff",
+  "theme_color": "#2f6fed",
+  "categories": ["education", "kids"],
+  "icons": [
+    {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "assets/icons/icon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
